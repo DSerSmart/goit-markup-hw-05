@@ -824,6 +824,7 @@ height:var(--height-bt);
   border: 1px solid #0000001a;
   border-radius: 50%;
   cursor: pointer;
+  background: none;
 }
 /* .modal-icon-X {
   display: flex;
